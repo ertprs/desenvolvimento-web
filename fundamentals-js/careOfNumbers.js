@@ -1,0 +1,5 @@
+console.log(10/0)
+console.log("10"/2)
+console.log("show" * 2)
+console.log(0.1 + 0.7)
+console.log((1.9911).toFixed(2))
