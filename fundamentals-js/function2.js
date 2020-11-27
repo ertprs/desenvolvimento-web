@@ -12,3 +12,7 @@ const sum = (a,b)=>{
 
 const sub = (a,b) => a-b
 console.log(sub(10,1));
+
+const arrow = a => console.log(a)
+
+console.log(arrow(10))
