@@ -1,6 +1,6 @@
- var number = 1
+let number = 1
 {
-    var number = 2
+    let number = 2
     console.log('in '+ number)
 }
 
